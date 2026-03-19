@@ -1,8 +1,8 @@
 // Typed.js
 var typed = new Typed("#typed", {
-    strings: ["Tere tulemast!", "Minu JavaScript projekt"],
-    typeSpeed: 50,
-    backSpeed: 25,
+    strings: ["Tervist!", "7-tunni töö"],
+    typeSpeed: 33,
+    backSpeed: 20,
     loop: true
 });
 

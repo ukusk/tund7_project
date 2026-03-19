@@ -14,8 +14,8 @@ new Chart(ctx, {
         labels: ['E', 'T', 'K', 'N', 'R'],
         datasets: [{
             label: 'Temperatuur',
-            data: [5, 7, 3, 6, 8],
-            borderWidth: 1
+            data: [18, 17, 21, 21, 22],
+            borderWidth: 2
         }]
     }
 });
